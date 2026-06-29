@@ -1,0 +1,6 @@
+pip install fastapi uvicorn
+pip install pymongo
+pip install python-dotenv
+
+pip install passlib
+pip install bcrypt==4.0.1
