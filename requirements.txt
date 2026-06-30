@@ -4,3 +4,7 @@ pip install python-dotenv
 
 pip install passlib
 pip install bcrypt==4.0.1
+
+pip install email-validator
+
+pip install python-jose[cryptography]
